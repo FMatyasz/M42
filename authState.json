@@ -1,0 +1,225 @@
+{
+  "cookies": [
+    {
+      "name": "AUTH_SESSION_ID",
+      "value": "12e38c38-e3e5-45f0-a839-609a33b41a2a.esa-51060",
+      "domain": "qatestenv.efectecloud-demo.com",
+      "path": "/auth/realms/qatestenv/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AUTH_SESSION_ID_LEGACY",
+      "value": "12e38c38-e3e5-45f0-a839-609a33b41a2a.esa-51060",
+      "domain": "qatestenv.efectecloud-demo.com",
+      "path": "/auth/realms/qatestenv/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "KEYCLOAK_IDENTITY",
+      "value": "eyJhbGciOiJIUzUxMiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICIwZTQ5YjhhMS0yMjgxLTQxNmItOTYwNy1iNjg0MDQ0YzgyMDQifQ.eyJleHAiOjE3NjU0NzUyMDMsImlhdCI6MTc2NTQzOTIwMywianRpIjoiNDM5MTIyYjktNzYyOC00ZjhhLWI3OWUtYjdhZWY1ZTI1ZDIxIiwiaXNzIjoiaHR0cHM6Ly9xYXRlc3RlbnYuZWZlY3RlY2xvdWQtZGVtby5jb20vYXV0aC9yZWFsbXMvcWF0ZXN0ZW52Iiwic3ViIjoiNmI0NTg4NjUtMWM1Zi00MWIyLThjYTYtMTg5OTZhNDNkNDk4IiwidHlwIjoiU2VyaWFsaXplZC1JRCIsInNlc3Npb25fc3RhdGUiOiIxMmUzOGMzOC1lM2U1LTQ1ZjAtYTgzOS02MDlhMzNiNDFhMmEiLCJzaWQiOiIxMmUzOGMzOC1lM2U1LTQ1ZjAtYTgzOS02MDlhMzNiNDFhMmEiLCJzdGF0ZV9jaGVja2VyIjoiZWQwaE9qV215a010OUV3UUlvdTRvMWhRM0hLZXk1RUlBeUZtb0tBc29EayJ9.N7Tlvb-2TmSNgLH5kXhIp8SJ3iLsSHE0EIPXrMuU-xKdU2_uwHHlalXb_ABVm23knMrQV4sCOkLx6Q4VP60Zwg",
+      "domain": "qatestenv.efectecloud-demo.com",
+      "path": "/auth/realms/qatestenv/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "KEYCLOAK_IDENTITY_LEGACY",
+      "value": "eyJhbGciOiJIUzUxMiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICIwZTQ5YjhhMS0yMjgxLTQxNmItOTYwNy1iNjg0MDQ0YzgyMDQifQ.eyJleHAiOjE3NjU0NzUyMDMsImlhdCI6MTc2NTQzOTIwMywianRpIjoiNDM5MTIyYjktNzYyOC00ZjhhLWI3OWUtYjdhZWY1ZTI1ZDIxIiwiaXNzIjoiaHR0cHM6Ly9xYXRlc3RlbnYuZWZlY3RlY2xvdWQtZGVtby5jb20vYXV0aC9yZWFsbXMvcWF0ZXN0ZW52Iiwic3ViIjoiNmI0NTg4NjUtMWM1Zi00MWIyLThjYTYtMTg5OTZhNDNkNDk4IiwidHlwIjoiU2VyaWFsaXplZC1JRCIsInNlc3Npb25fc3RhdGUiOiIxMmUzOGMzOC1lM2U1LTQ1ZjAtYTgzOS02MDlhMzNiNDFhMmEiLCJzaWQiOiIxMmUzOGMzOC1lM2U1LTQ1ZjAtYTgzOS02MDlhMzNiNDFhMmEiLCJzdGF0ZV9jaGVja2VyIjoiZWQwaE9qV215a010OUV3UUlvdTRvMWhRM0hLZXk1RUlBeUZtb0tBc29EayJ9.N7Tlvb-2TmSNgLH5kXhIp8SJ3iLsSHE0EIPXrMuU-xKdU2_uwHHlalXb_ABVm23knMrQV4sCOkLx6Q4VP60Zwg",
+      "domain": "qatestenv.efectecloud-demo.com",
+      "path": "/auth/realms/qatestenv/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "KEYCLOAK_SESSION",
+      "value": "\"qatestenv/6b458865-1c5f-41b2-8ca6-18996a43d498/12e38c38-e3e5-45f0-a839-609a33b41a2a\"",
+      "domain": "qatestenv.efectecloud-demo.com",
+      "path": "/auth/realms/qatestenv/",
+      "expires": 1765475202.065104,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "KEYCLOAK_SESSION_LEGACY",
+      "value": "\"qatestenv/6b458865-1c5f-41b2-8ca6-18996a43d498/12e38c38-e3e5-45f0-a839-609a33b41a2a\"",
+      "domain": "qatestenv.efectecloud-demo.com",
+      "path": "/auth/realms/qatestenv/",
+      "expires": 1765475202.065458,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "2DC0008D0126868C15B004291E73008F",
+      "domain": "qatestenv.efectecloud-demo.com",
+      "path": "/itsm",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_opensaml_req_ss%3Amem%3Ac988d174783c61249f4b58fce08bfa7067aca56ed2eb8f3e9262fe17672adb6c",
+      "value": "_267a6d695b8ee56796b26d06932700e6",
+      "domain": "qatestenv.efectecloud-demo.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_opensaml_req_ss%3Amem%3A31f6aa00772ae38dc84abe1652598ccc1e69b227efa2af04167ad0b489adc5d7",
+      "value": "_e6c1455746e2ff0a7a005c1ee9030a08",
+      "domain": "qatestenv.efectecloud-demo.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_opensaml_req_ss%3Amem%3A798f44af58da0d1c0c8bc41e5371cc56e5fe917b4175a4822b39add40e520168",
+      "value": "_4e27ae0b69dba781146da146195890bc",
+      "domain": "qatestenv.efectecloud-demo.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_opensaml_req_ss%3Amem%3Aee0f139d053c06c38b46559e9188f90e6367d9fb5d2024cdb74b4ed4c7ace365",
+      "value": "_7dd21c736bca62fe00e55e567043fe1f",
+      "domain": "qatestenv.efectecloud-demo.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_opensaml_req_ss%3Amem%3Ad1c80db1f4bac4d6de8bda5a8e1b1480c889ec97abd8dcb2b1b4c5898d0b68e9",
+      "value": "_7c70a2ac57956b0b770218e2bc10d39d",
+      "domain": "qatestenv.efectecloud-demo.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_opensaml_req_ss%3Amem%3Ae055c23bad3df682583080bfef92f87c374109dd7e14d661db982f309cce5833",
+      "value": "_7311d9de267eb67030c35fe2be8afac0",
+      "domain": "qatestenv.efectecloud-demo.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_opensaml_req_ss%3Amem%3A9456be94bbf5c6432680a5640ef69453545effb34f1e9509f12c0d409f5d82ca",
+      "value": "_cf6e1ec0f8ce8eac03b25c98eaab3036",
+      "domain": "qatestenv.efectecloud-demo.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_opensaml_req_ss%3Amem%3Ae4de48cf32a857405b725c72e747098fd56f046e8b11c321458060d74e91062c",
+      "value": "_c167bebb48c9f45caecf29ac5a6a1f65",
+      "domain": "qatestenv.efectecloud-demo.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_opensaml_req_ss%3Amem%3Af4d000f96e0a3d76785486c6eeb62a8346c80e156290e6f39ba151e8ffe78513",
+      "value": "_497537a4659e96f327bf585379a365a0",
+      "domain": "qatestenv.efectecloud-demo.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "userlane-user",
+      "value": "eyJ2YWx1ZSI6ImQ2NzZkMjE5ZWE1YTRiNDZhY2U0Yzk2MTRjMjliY2Y3ODEyZTc5OTNhMTM0MGU2N2FkNjRlZDBkYmQxYWRiYzF8fCJ9",
+      "domain": ".efectecloud-demo.com",
+      "path": "/",
+      "expires": 1799955826.048041,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_opensaml_req_ss%3Amem%3A53af681452f7da51a2375e37f31c8fe5d0141d2f9a11d0df21fb9444542c5432",
+      "value": "_d14d11a40db08678c3fb812740b748a5",
+      "domain": "qatestenv.efectecloud-demo.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_opensaml_req_ss%3Amem%3A01c539520742364eead440d731d7ddde0fd3aac95ac7a268ee982fa44f0a80ac",
+      "value": "_d825339b883f595b8e76d1ab38d7c358",
+      "domain": "qatestenv.efectecloud-demo.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_opensaml_req_ss%3Amem%3A8526069f63363c191a56be63748740199e84f0747500fe8266b0c0ef576466c6",
+      "value": "_69443f92ca577d262d2bfc3566e040cc",
+      "domain": "qatestenv.efectecloud-demo.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_opensaml_req_ss%3Amem%3A54460901623bc51f4b4ab975125032d2c910bc042111c5e30b8c82b175d22d1d",
+      "value": "_60f3b9fa8f8ae83b7f68325d5168db8b",
+      "domain": "qatestenv.efectecloud-demo.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_shibsession_6170616368652d716174657374656e7668747470733a2f2f716174657374656e762e656665637465636c6f75642d64656d6f2e636f6d2f73686962626f6c657468",
+      "value": "_37341be00bcae530ddcc37362414980c",
+      "domain": "qatestenv.efectecloud-demo.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": []
+}
